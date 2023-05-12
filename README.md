@@ -19,9 +19,9 @@ Tabela de conteúdos
 </h2>
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/weskbru"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84283440?v=4" width="100px;" alt=""/><br /><sub><b>Wesley Bruno</b></sub></a><br /><a title="Desenvolvedor">👨‍🚀</a></td>
-    <td align="center"><a href="https://github/weskbru"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/103386708?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Miguel</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/121724304?v=4" width="100px;" alt=""/><br /><sub><b>Vanessa</b></sub></a><br /><a href="https://github.com/Serpa153" title="Desenvolvedora">👨‍🚀</a></td>
+    <td align="center"><a href="https://github.com/weskbru"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/84283440?v=4" width="100px;" alt=""/><br /><sub><b>Wesley Bruno</b></sub></a><br /><a title="Desenvolvedor">🚀</a></td>
+    <td align="center"><a href="https://github/weskbru"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/103386708?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Miguel</b></sub></a><br /><a href="https://github.com/daniel-miguel3003" title="Desenvolvedor">🚀</a></td>
+    <td align="center"><a href="https://github.com/Serpa153"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/121724304?v=4" width="100px;" alt=""/><br /><sub><b>Vanessa</b></sub></a><br /><a href="https://github.com/Serpa153" title="Desenvolvedora">🚀</a></td>
     <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/133262365?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Vinicius</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
   </tr>
   <tr>
